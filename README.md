@@ -3,12 +3,14 @@
 </div>
 
 <br/>
-## Hi There! 👋
 
-I'm Harsh, a B.Tech graduate from **NIT Silchar** with a background in backend engineering.
+### Hi There! 👋
+
+I'm Harsh, a B.Tech graduate from **NIT Silchar** with a background in software engineering.
 
 - Currently interning at Oracle, building automation platforms
 - Passionate about building products and systems that create real impact
+- Profound interest in distributed systems, AI tooling, and things that actually ship
 
 ---
 
