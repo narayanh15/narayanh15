@@ -18,9 +18,9 @@ I'm Harsh, a B.Tech graduate from **NIT Silchar** with a background in software 
 
 | Repository | Link | Description | Stack |
 |---|---|---|---|
-| Incident Alert System | [Repo](#) | Distributed alert routing with deduplication & escalation | Spring Boot · Kafka · Redis |
-| Messatto | [Repo](#) | QR-based mess check-ins replacing paper tokens | Spring Boot · Redis · JWT |
-| Workflow Orchestration Engine | [Repo](#) | Async job execution with priority scheduling | Spring Boot · RabbitMQ · MongoDB |
+| Incident Management and Alert Routing System | [Repo](https://github.com/narayanh15/Incident-Management-and-Alert-Routing-System) | Distributed alert routing with deduplication & escalation | Spring Boot · Kafka · Redis |
+| Messatto | [Repo](https://github.com/narayanh15/Messatto) | QR-based mess check-ins replacing paper tokens | Spring Boot · Redis · JWT |
+| Workflow Orchestration Engine | [Repo](https://github.com/narayanh15/Distributed-Workflow-Orchestration-Engine) | Async job execution with priority scheduling | Spring Boot · RabbitMQ · MongoDB |
 | AI TechSpec Generator | Internal | 80% faster spec writing · 8.5+ avg rating | Python · LangChain · LLM APIs |
 
 ---
