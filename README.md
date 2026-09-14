@@ -50,12 +50,14 @@ I'm Harsh, a B.Tech graduate from **NIT Silchar** with a background in software 
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Java · Python · JavaScript · SQL |
-| **Backend** | Spring Boot · Node.js · Express.js · REST APIs |
-| **Messaging** | Apache Kafka · RabbitMQ · BullMQ |
-| **Databases & Caching** | PostgreSQL · MongoDB · Redis |
-| **Cloud & Infrastructure** | AWS · Docker · Linux |
-| **Observability & Tools** | Prometheus · Grafana · Git · Postman |
+| **Languages** | Java · Python · C++ · JavaScript · SQL |
+| **Backend** | Spring Boot · Spring Security · Node.js · Express.js · REST APIs · Microservices · JPA/Hibernate · JWT |
+| **AI / LLMs** | Claude API · Prompt Engineering · RAG |
+| **Messaging & Caching** | Apache Kafka · Redis · BullMQ |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **DevOps & Tools** | Docker · Git · Linux · Postman · Flyway · Testcontainers |
+| **Observability** | Prometheus · Grafana |
+| **CS Fundamentals** | DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design · Scalability |
 
 ## 🤝 Connect With Me
 
